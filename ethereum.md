@@ -5,3 +5,5 @@
 The proof of work algorithm used for Ether mining. Ethash PoW is memory hard, making it basically ASIC resistant.
 
 ### Ether
+
+### Nonce
