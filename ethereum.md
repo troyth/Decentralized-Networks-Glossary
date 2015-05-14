@@ -1,4 +1,4 @@
-### Epoch
+### [Epoch](http://ethereum.gitbooks.io/frontier-guide/content/mining.html)
 100 minutes, calculated by a the generation of 30000 blocks at a rate of one block every 12 seconds.
 
 ### [Ethash](https://github.com/ethereum/wiki/wiki/Ethash)
